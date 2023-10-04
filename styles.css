@@ -34,9 +34,8 @@ img {
 
 p[id="tribute-info"] {
   max-width: 100%;
-  text-align: center;
-  margin-left: 500px;
-  margin-right: 500px;
+  margin-left: 300px;
+  margin-right: 600px;
 }
 
 p[id="timeline"] {
