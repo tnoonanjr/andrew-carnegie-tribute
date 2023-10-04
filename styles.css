@@ -1,0 +1,43 @@
+.head-image {
+  background-color: rgba(120,120,120,.1)
+
+}
+h1 {
+  text-align: center;
+  padding-top: 35px;
+  font-family: Georgia;
+  
+}
+
+h2 {
+  text-align: center;
+  font-size: 17px;
+  font-weight: normal;
+  font-family: Georgia;
+}
+
+img {
+  max-width: 100%;
+  width: 100px 100px;
+  padding-top: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.credits {
+  text-align: center;
+  font-family: Georgia;
+  padding-top: 2px;
+}
+
+p[id="tribute-info"] {
+  max-width: 100%;
+  text-align: center;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+p[id="timeline"] {
+  margin-left: 40px;
+}
